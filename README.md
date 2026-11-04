@@ -60,7 +60,7 @@
 
 <a id="english"></a>
 
-# Claude-Niang (English)
+# Claude-Chan (English)
 
 An orange-haired girl holding a book who lives on your desktop and keeps you company while you code.
 
