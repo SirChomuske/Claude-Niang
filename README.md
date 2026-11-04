@@ -1,4 +1,4 @@
-# Claude娘（Claude-Niang）
+# Claude娘（Claude-Chan）
 
 **中文** | [English](#english)
 
