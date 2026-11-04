@@ -18,7 +18,7 @@
 
 - **点她说话**：内置 45 句本小姐语录。点角色打开一句，点气泡换下一句。
 - **按一下会“噗叽”**：点击有挤压动画和吱吱音效，也能换成自己的 WAV 音效。
-- **两套形象**：设置菜单 →「更换形象」，还能导入你自己的图片。
+- **两套形象**：设置菜单 →「更换形象」，还能导入你自己的图片。建议使用透明图片。
 - **回答结束提醒**：Claude Code 回答完毕时，她会告诉你「Claude 回答完毕啦」。
 - **自由摆放**：拖动、缩放、置顶，或者只待在 Claude 桌面应用窗口里。
 - **额度显示**：使用终端版 Claude Code 时，点她可以看 5 小时 / 每周剩余额度。
@@ -72,9 +72,9 @@ An orange-haired girl holding a book who lives on your desktop and keeps you com
 
 ## ✨ Features
 
-- **Quotes:** 45 built-in lines (in Chinese). Click her to open one; click the speech bubble for another. You can edit or add your own.
+- **Quotes:** 45 built-in lines. Click her to open one; click the speech bubble for another. You can edit or add your own.
 - **Squish!** Clicking her plays a squish animation and a squeaky-toy sound. You can swap in your own WAV sounds.
-- **Two looks:** Settings menu → 「更换形象」 (Change look). You can also import your own image.
+- **Two looks:** Settings menu → Change look. You can also import your own image. transparent background recommended.
 - **Reply-finished reminder:** when Claude Code finishes a reply, she tells you so.
 - **Put her anywhere:** drag, resize, keep on top, or keep her inside the Claude desktop app window.
 - **Usage display:** if you use Claude Code in the terminal, click her to see your 5-hour and weekly usage left.
